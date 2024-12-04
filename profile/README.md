@@ -1,6 +1,6 @@
 Minecraft, o renomado jogo sandbox desenvolvido pela Mojang Studios, continua encantando milhões de jogadores ao redor do mundo com suas infinitas possibilidades de criatividade e exploração. O lançamento do **Minecraft 1.21.50 APK** traz recursos emocionantes, melhorias e atualizações que tornam a experiência de jogo ainda melhor. Seja você um jogador experiente ou novato, aqui está tudo o que você precisa saber sobre a nova versão.  
 
-Download: <a href=https://apkgara.com/minecraft-1-21-50/>Minecraft 1.21.50 APK</a>
+Download: <a href=https://tinyurl.com/arh72anx>Minecraft 1.21.50 APK</a>
 
 ### **O Que Há de Novo no Minecraft 1.21.50 APK?**  
 
