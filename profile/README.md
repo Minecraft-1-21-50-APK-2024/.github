@@ -21,22 +21,6 @@ A atualização **1.21.50** apresenta diversas adições e ajustes notáveis ao 
 5. **Correções de Bugs**  
    A Mojang corrigiu vários bugs das versões anteriores, garantindo uma experiência de jogo mais estável e agradável.  
 
-### **Como Baixar e Instalar o Minecraft 1.21.50 APK**  
-
-Se você está ansioso para experimentar a versão mais recente, siga estas etapas para baixar e instalar o Minecraft 1.21.50 APK no seu dispositivo Android:  
-
-1. **Baixe o Arquivo APK**  
-   Procure uma fonte confiável para baixar o Minecraft 1.21.50 APK. Certifique-se de que o site seja seguro para evitar riscos à segurança.  
-
-2. **Ative Fontes Desconhecidas**  
-   Antes de instalar o APK, vá para as configurações do seu dispositivo, navegue até "Segurança" e ative a opção "Fontes Desconhecidas".  
-
-3. **Instale o APK**  
-   Localize o arquivo baixado no gerenciador de arquivos do seu dispositivo e toque nele para iniciar o processo de instalação.  
-
-4. **Abra o Jogo**  
-   Depois de instalado, abra o aplicativo e aproveite os novos recursos introduzidos no Minecraft 1.21.50.  
-
 ### **Dicas Principais para Aproveitar o Minecraft 1.21.50 APK**  
 
 - **Experimente os Novos Recursos**: Explore os novos biomas e interaja com os novos mobs para aproveitar ao máximo a atualização.  
